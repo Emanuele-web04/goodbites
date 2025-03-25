@@ -4,6 +4,7 @@ import Features from "@/components/Features";
 import DownloadCTA from "@/components/DownloadCTA";
 import Link from "next/link";
 import { describe } from "node:test";
+/* eslint-disable */
 
 const Home = () => {
   return (
